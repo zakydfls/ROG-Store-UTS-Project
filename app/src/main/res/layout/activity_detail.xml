@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+
+    <LinearLayout
+        android:id="@+id/detail"
+        android:layout_width="match_parent"
+        android:layout_height="700dp"
+        android:orientation="vertical"
+        android:background="#1C2120">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:orientation="vertical"
+            android:layout_marginTop="40dp">
+
+            <ImageView
+                android:id="@+id/img_card_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/d1"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/judul"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ROG Stirx G513QC"
+                android:textAlignment="center"
+                android:textColor="#DFDFDF"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/deskripsi"
+                android:textColor="#DFDFDF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginBottom="15dp"
+                android:text="CPU : AMD Ryzen™ 7 6800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost)
+GPU : NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6 ROG Boost: 1550MHz* at 95W (1500MHz Boost Clock+50MHz OC, 80W+15W Dynamic Boost)
+Display : 15.6-inch FHD (1920 x 1080) 16:9; Brightness 250nits ; Refresh Rate 144Hz ; sRGB % 62.5% ; Adaptive-Sync
+Memory : 8GB DDR5-4800 SO-DIMM / 16GB DDR5-4800 SO-DIMM
+Storage : 512GB M.2 NVMe™ PCIe® 4.0 SSD
+Keyboard : Backlit Chiclet Keyboard 4-Zone RGB" />
+            <TextView
+                android:id="@+id/hargaBrg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:textColor="#DFDFDF"
+                android:textSize="20dp"
+                android:text="Mulai dari : RP.19.999.999"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/priceView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_below="@id/detail"
+        android:gravity="bottom">
+
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#DFDFDF"
+            android:background="#BF1414"
+            android:text="Kembali" />
+    </RelativeLayout>
+
+</RelativeLayout>

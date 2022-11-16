@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">ROG Store Karangpakel</string>
+    <string name="r1">CPU : AMD Ryzen™ 7 6800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost)
+GPU : NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6 ROG Boost: 1550MHz* at 95W (1500MHz Boost Clock+50MHz OC, 80W+15W Dynamic Boost)
+Display : 15.6-inch FHD (1920 x 1080) 16:9; Brightness 250nits ; Refresh Rate 144Hz ; sRGB % 62.5% ; Adaptive-Sync
+Memory : 8GB DDR5-4800 SO-DIMM / 16GB DDR5-4800 SO-DIMM
+Storage : 512GB M.2 NVMe™ PCIe® 4.0 SSD
+Keyboard : Backlit Chiclet Keyboard 4-Zone RGB</string>
+    <string name="r2">CPU : AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+Memory : 16GB DDR5 on board Up To 32GB
+Storage : 1TB M.2 NVMe™ PCIe® 4.0 SSD
+GPU : AMD Radeon™ RX 6800S 8GB GDDR6 MUX Switch + Optimus ROG Boost: up to 105W(SmartShift)
+Display : 14-inch WUXGA (1920 x 1200) 16:10, 144Hz, Response Time (G2G) 3ms Adaptive-Sync, IPS-level 400nits, sRGB % 100.00% Pantone Validated
+Keyboard : Backlit Chiclet Keyboard
+Operating System : Windows 11 Home
+Office : Office Home and Student 2021
+Speaker : 4-speaker system with Smart Amplifier Technology</string>
+    <string name="r3">CPU : AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+Memory : 16GB DDR5 on board Up To 32GB
+Storage : 1TB M.2 NVMe™ PCIe® 4.0 SSD
+GPU : AMD Radeon™ RX 6800S 8GB GDDR6 MUX Switch + Optimus ROG Boost: up to 105W(SmartShift)
+Display : 14-inch WUXGA (1920 x 1200) 16:10, 144Hz, Response Time (G2G) 3ms Adaptive-Sync, IPS-level 400nits, sRGB % 100.00% Pantone Validated
+Keyboard : Backlit Chiclet Keyboard
+Operating System : Windows 11 Home
+Office : Office Home and Student 2021
+Speaker : 4-speaker system with Smart Amplifier Technology</string>
+    <string name="r4">CPU : AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+Memory : 16GB DDR5 on board Up To 32GB
+Storage : 1TB M.2 NVMe™ PCIe® 4.0 SSD
+GPU : AMD Radeon™ RX 6800S 8GB GDDR6 MUX Switch + Optimus ROG Boost: up to 105W(SmartShift)
+Display : 14-inch WUXGA (1920 x 1200) 16:10, 144Hz, Response Time (G2G) 3ms Adaptive-Sync, IPS-level 400nits, sRGB % 100.00% Pantone Validated
+Keyboard : Backlit Chiclet Keyboard
+Operating System : Windows 11 Home
+Office : Office Home and Student 2021
+Speaker : 4-speaker system with Smart Amplifier Technology</string>
+    <string name="r5">Processor Onboard : AMD Ryzen™ 7 6800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.9 GHz max boost)
+Memori Standar : 16GB DDR5 4800Mhz
+Tipe Grafis : NVIDIA® GeForce RTX™ 3060 Laptop GPU 6GB GDDR6
+TGP : ROG Boost: 1475MHz* at 120W (1425MHz Boost Clock+50MHz OC, 100W+20W Dynamic Boost)
+Ukuran Layar : 16" WQXGA 16:10 (2560 x 1600) anti-glare display, 165Hz 3ms, 1100Nits
+Additional Display : ScreenPad™ Plus (14" 3840 x 1100(4K) IPS-level Panel Support Stylus)
+Hard Disk : 1TB M.2 NVMe™ PCIe® 4.0 SSD
+Keyboard : Backlit Chiclet Keyboard Per-Key RGB
+Kamera : 720P HD IR Camera for Windows Hello
+Speaker : 6-speaker(dual-force woofer) system with Smart Amplifier Technology
+Wireless Network : Wi-Fi 6E(802.11ax) (Dual band) 2*2 + Bluetooth 5.2</string>
+    <string name="r6">CPU : AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+Memory : 16GB DDR5 on board Up To 32GB
+Storage : 1TB M.2 NVMe™ PCIe® 4.0 SSD
+GPU : AMD Radeon™ RX 6800S 8GB GDDR6 MUX Switch + Optimus ROG Boost: up to 105W(SmartShift)
+Display : 14-inch WUXGA (1920 x 1200) 16:10, 144Hz, Response Time (G2G) 3ms Adaptive-Sync, IPS-level 400nits, sRGB % 100.00% Pantone Validated
+Keyboard : Backlit Chiclet Keyboard
+Operating System : Windows 11 Home
+Office : Office Home and Student 2021
+Speaker : 4-speaker system with Smart Amplifier Technology</string>
+    <string name="r7">Dimensions: 173 x 77 x 10.3 mm (6.81 x 3.03 x 0.41 in)
+Weight: 239 g (8.43 oz)
+Build: Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 3), aluminum frame
+SIM: Dual SIM (Nano-SIM, dual stand-by)
+Type: AMOLED, 1B colors, 165Hz, HDR10+, 800 nits (typ), 1200 nits (peak)
+Size: 6.78 inches, 109.5 cm2 (~82.2% screen-to-body ratio)
+Resolution: 1080 x 2448 pixels (~395 ppi density)
+Protection: Corning Gorilla Glass Victus
+OS: Android 12
+Chipset: Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)
+CPU: Octa-core (1x3.19 GHz Cortex-X2 and 3x2.75 GHz Cortex-A710 and 4x1.80 GHz Cortex-A510)
+GPU: Adreno 730
+WLAN: Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct, hotspot
+Bluetooth: 5.2, A2DP, LE, aptX HD, aptX Adaptive
+NFC: Yes</string>
+    <string name="r8">Dimensions: 173 x 77 x 10.3 mm (6.81 x 3.03 x 0.41 in)
+Weight: 239 g (8.43 oz)
+Build: Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 3), aluminum frame
+SIM: Dual SIM (Nano-SIM, dual stand-by)
+Type: AMOLED, 1B colors, 165Hz, HDR10+, 800 nits (typ), 1200 nits (peak)
+Size: 6.78 inches, 109.5 cm2 (~82.2% screen-to-body ratio)
+Resolution: 1080 x 2448 pixels (~395 ppi density)
+Protection: Corning Gorilla Glass Victus
+OS: Android 12
+Chipset: Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)
+CPU: Octa-core (1x3.19 GHz Cortex-X2 and 3x2.75 GHz Cortex-A710 and 4x1.80 GHz Cortex-A510)
+GPU: Adreno 730
+WLAN: Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct, hotspot
+Bluetooth: 5.2, A2DP, LE, aptX HD, aptX Adaptive
+NFC: Yes</string>
+    <string name="r9">ROG Clavis USB-C to 3.5 mm gaming DAC with AI Noise-Canceling Mic, MQA rendering tech, ESS 9281 QUAD DAC, audio amplifier and Aura Sync. ROG Clavis is compatible with PCs, mobile devices and laptops</string>
+    <string name="r10">Customizable 18 RGB lighting zones, and sync-able with other Aura Sync products
+Build-in ESS DAC and AMP deliver stunning music and immersive gaming audio
+Support 2 USB 3.1 ports to charge devices or connect to your gaming gears
+Armoury II software offers extensive audio and light controls for your gaming experience
+Optimized arc design of top hanger stables and protects your headset from shaking</string>
+
+    <string-array name="price">
+        <item>17,000,999</item>
+        <item>20,999,999</item>
+        <item>20,999,999</item>
+        <item>20,999,999</item>
+        <item>20,999,999</item>
+        <item>20,999,999</item>
+        <item>20,999,999</item>
+        <item>20,999,999</item>
+        <item>20,999,999</item>
+        <item>20,999,999</item>
+    </string-array>
+</resources>

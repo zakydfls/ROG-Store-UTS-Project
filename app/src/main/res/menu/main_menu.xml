@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".SplitActivity">
+    <item android:id="@+id/call"
+        android:title="Call Center"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/sms"
+        android:title="SMS Center"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+    <item android:id="@+id/location"
+        android:title="Maps/Location"
+        android:orderInCategory="300"
+        app:showAsAction="never" />
+    <item android:id="@+id/resetpass"
+        android:title="Update User Password"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+
+</menu>
